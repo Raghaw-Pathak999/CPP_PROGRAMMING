@@ -11,7 +11,7 @@ int main()
     cout << "ENTER 2 NUM: ";
     cin >> b;
 
-    cout << "Division OF TWO NUMBER: " << a % b;
+    cout << "MODULE OF TWO NUMBER: " << a % b;
 }
 
 // int main()
@@ -19,7 +19,10 @@ int main()
 
 //     int a = 229, b = 3;
 
-//     cout << a %b; //  / DIVISION
+//     cout << a %b; // % MODULE
 
 //     return 0;
 // }
+
+// remender/ Module ==>> bachhi hui chiz
+// division == >> kitne bar me gai

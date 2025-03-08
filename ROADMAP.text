@@ -1,3 +1,9 @@
 01 DATA TYPE
 02 INPUT / OUTPUT
 03 Operators
+
+
+
+git add .  
+git commit -m "Updated code"  
+git push origin main  

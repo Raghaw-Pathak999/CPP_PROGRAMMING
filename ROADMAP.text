@@ -5,3 +5,16 @@
 git add .  
 git commit -m "Updated code"  
 git push origin main  
+
+
+
+1. WAP to check whether a number is positive or not.
+2. WAP to check whether a person is eligible to marry or not (based on age).
+3. WAP to print "Good Morning" when the number is 8.
+4. WAP to display the message "Good Morning" when the number is 8, 10, or 11.
+5. Write a program for a nested if-else if ladder in C.
+6. WAP to print numbers between 1 to 10.
+7. WAP to print numbers between 20 to 10 in reverse order.
+8. WAP to print even numbers between 1 to 10.
+9. WAP to print odd numbers between 1 to 10.
+10. WAP to print even numbers between 19 to 9 in reverse order.
